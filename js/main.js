@@ -8,7 +8,7 @@ document.getElementById("contactForm").addEventListener("submit", function(e){
     let subject = document.getElementById("subject").value;
     let message = document.getElementById("message").value;
 
-    let whatsappNumber = "91XXXXXXXXXX"; // apna WhatsApp number yaha daalo
+    let whatsappNumber = "919650624441"; // apna WhatsApp number yaha daalo
 
     let whatsappMessage = `New Contact Form Lead:%0A
 Name: ${name}%0A

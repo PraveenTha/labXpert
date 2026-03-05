@@ -1,0 +1,67 @@
+.package-detail-section {
+  padding: 80px 15px;
+}
+
+.detail-title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.detail-desc {
+  margin-bottom: 15px;
+  color: #555;
+}
+
+.detail-price {
+  font-size: 26px;
+  color: #02A3B6;
+  margin-bottom: 15px;
+}
+
+.detail-params {
+  margin-bottom: 15px;
+  color: #777;
+}
+
+.detail-list {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.detail-list li {
+  margin-bottom: 6px;
+}
+
+.detail-image {
+  border-radius: 15px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+}
+
+.detail-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+
+.detail-list li {
+  position: relative;
+  padding-left: 28px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #444;
+}
+
+.detail-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #02A3B6;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+div#packageImage{
+  width: 400px;
+}

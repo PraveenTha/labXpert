@@ -38,10 +38,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Urine- R/m",
                 "Blood Sugar – Random",
                 "Blood Group",
-                "Hiv 1&2 Antibody, by Elisa",
-                "Hepatitis B Surface Antigen (HBsAg), by Elisa",
-                "Hepatitis C Virus (HCV Antibody), by Elisa",
-                "Vdrl (RPR –Serology for Syphilis)"
+                "Hiv 1&2 Antibody,-Rapid",
+                "Hepatitis B Surface Antigen (HBsAg), - Rapid",
+                "Hepatitis C Virus (HCV Antibody), - Rapid",
+                "Vdrl (RPR –Serology for Syphilis) - Rapid"
             ]
         },
 
@@ -108,21 +108,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 "PCT (by Calculated)",
                 "Corr. TLC",
                 "Differential Leucocyte Count",
-
                 "Neutrophil (by Flow Cytometry/Manual)",
                 "Lymphocyte (by Flow Cytometry/Manual)",
                 "Monocytes (by Flow Cytometry/Manual)",
                 "Eosinophils (by Flow Cytometry/Manual)",
                 "Basophils (by Flow Cytometry/Manual)",
-
-                "Band Forms (by Microscopy)",
-                "Metamyelocytes (by Microscopy)",
-                "Myelocytes (by Microscopy)",
-                "Promyelocytes",
-                "Blasts",
-                "Prolymphocytes",
-                "Dysplastic Cells",
-
                 "Absolute Neutrophils",
                 "Absolute Lymphocytes",
                 "Absolute Monocytes",
@@ -153,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
             price: "₹400/-",
             image: "./images/package/5.jpg",
             includes: [
-                "Electrolytes (Na, K, Cl)",
+                "Electrolyte Na+ k+ ica2+ cl-",
             ]
         },
         "ENA Profile": {
@@ -233,9 +223,9 @@ document.addEventListener("DOMContentLoaded", function () {
             price: "₹790/-",
             image: "./images/package/10.png",
             includes: [
-                "HIV 1&2 Antibody , by Elisa",
-                "Hepatitis  B Surface Antigen (HBsAg), by Elisa",
-                "Hepatitis C Virus (HCV Antibody), by Elisa",
+                "HIV 1&2 Antibody , -Rapid",
+                "Hepatitis  B Surface Antigen (HBsAg), - Rapid",
+                "Hepatitis C Virus (HCV Antibody), - Rapid",
             ]
         },
         "Iron Profile, Basic": {
@@ -261,7 +251,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "UREA/CREATININE RATIO",
                 "SODIUM",
                 "POTASSIUM",
-                "CHLORIDE"
+                "CHLORIDE",
+                "Ionic calcium"
             ]
         },
 
@@ -304,7 +295,7 @@ document.addEventListener("DOMContentLoaded", function () {
             includes: [
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (Westergren)",
+                "ESR (wintrobe method.)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",

@@ -436,7 +436,7 @@ h2 {
 /* Package Name */
 
 .package-card h3 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
   color: #0a1f44;
   margin-bottom: 5px;
@@ -509,6 +509,72 @@ h2 {
   left: 0;
   color: #02A3B6;
   font-size: 13px;
+}
+
+
+
+/* cards grid */
+#packageContainer{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:25px;
+  align-items:stretch;
+}
+
+/* card */
+.package-card{
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  padding:20px;
+  border-radius:12px;
+  background:#fff;
+  box-shadow:0 5px 20px rgba(0,0,0,0.08);
+}
+
+/* test list fixed area */
+.test-list{
+  list-style:none;
+  padding:0;
+  margin-top:15px;
+  height:210px;        /* SAME HEIGHT FOR ALL CARDS */
+  overflow:hidden;
+  flex-grow:1;
+}
+
+/* when expanded */
+.test-list.scroll-active{
+  overflow-y:auto;
+}
+
+/* list items */
+.test-list li{
+  display:flex;
+  justify-content:space-between;
+  padding:8px 0;
+  border-bottom:1px solid #eee;
+}
+
+/* button alignment */
+.view-more-btn{
+  margin-top:auto;
+  align-self:flex-start;
+}
+
+.book-btn{
+  margin-bottom:10px;
+}
+
+button.view-more-btn {
+    background: linear-gradient(90deg, #02A3B6, #0d6efd);
+    color: #fff;
+    border: none;
+    padding: 10px 22px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    margin: 20px 0;
 }
 
 /* ===== Footer Category 2 Column Layout ===== */

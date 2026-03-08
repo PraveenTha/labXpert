@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Erythrocyte Sedimentation Rate (ESR)": {
             price: "₹200/-",
             includes: [
-                "Erythrocyte Sedimentation Rate (ESR) ,by Westergren",
+                "Erythrocyte Sedimentation Rate (ESR) ,by wintrobe method",
             ]
         },
         "Estradiol": {

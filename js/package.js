@@ -7,7 +7,7 @@ const packages = [
     tests: [
       { name: "Complete Blood Count (CBC)", price: "₹390", parameters: "23 Parameters" },
       { name: "Fasting Sugar", price: "₹80", parameters: "1 Parameter" },
-      { name: "ESR - Westergren", price: "₹200", parameters: "1 Parameter" },
+      { name: "ESR - wintrobe method", price: "₹200", parameters: "1 Parameter" },
       { name: "Liver Profile (LFT)", price: "₹350", parameters: "11 Parameters" },
       { name: "Kidney Profile (KFT)", price: "₹350", parameters: "11 Parameters" },
       { name: "Lipid Profile (Cholesterol)", price: "₹290", parameters: "9 Parameters" },
@@ -25,7 +25,7 @@ const packages = [
       { name: "Glycated hemoglobin (HbA1c)", price: "₹390", parameters: "3 Parameters" },
       { name: "Complete Blood Count (CBC)", price: "₹390", parameters: "23 Parameters" },
       { name: "Fasting Sugar", price: "₹80", parameters: "1 Parameter" },
-      { name: "ESR - Westergren", price: "₹200", parameters: "1 Parameter" },
+      { name: "ESR - wintrobe method", price: "₹200", parameters: "1 Parameter" },
       { name: "Liver Profile (LFT)", price: "₹350", parameters: "11 Parameters" },
       { name: "Kidney Profile (KFT)", price: "₹350", parameters: "11 Parameters" },
       { name: "Lipid Profile", price: "₹290", parameters: "9 Parameters" },

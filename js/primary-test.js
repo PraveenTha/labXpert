@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", function () {
             price: "₹250/-",
             includes: [
                 "Volume",
-                "Calcium, Serum ,by NM-BAPTA",
+                "Calcium, Serum",
             ]
         },
         "C-ANCA (PR3) ,by ELISA": {
@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Erythrocyte Sedimentation Rate (ESR)": {
             price: "₹200/-",
             includes: [
-                "Erythrocyte Sedimentation Rate (ESR) ,by wintrobe method",
+                "Erythrocyte Sedimentation Rate (ESR) ,by wintrobe",
             ]
         },
         "Estradiol": {

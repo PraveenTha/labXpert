@@ -38,10 +38,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Urine- R/m",
                 "Blood Sugar – Random",
                 "Blood Group",
-                "Hiv 1&2 Antibody,-Rapid",
-                "Hepatitis B Surface Antigen (HBsAg), - Rapid",
-                "Hepatitis C Virus (HCV Antibody), - Rapid",
-                "Vdrl (RPR –Serology for Syphilis) - Rapid"
+                "Hiv 1&2 Antibody - Rapid",
+                "Hepatitis B Surface Antigen (HBsAg) - Rapid",
+                "Hepatitis C Virus (HCV Antibody) - Rapid",
+                "VDRL - Rapid"
             ]
         },
 
@@ -295,7 +295,7 @@ document.addEventListener("DOMContentLoaded", function () {
             includes: [
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method.)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
@@ -311,7 +311,7 @@ document.addEventListener("DOMContentLoaded", function () {
             includes: [
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
@@ -327,7 +327,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "HBA1c (Sugar Memory)",
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
@@ -343,7 +343,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "HBA1c (Sugar Memory)",
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
@@ -362,7 +362,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "HBA1c (Sugar Memory)",
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
@@ -381,7 +381,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "HBA1c (Sugar Memory)",
                 "Diabetic Screen (Fasting Sugar)",
                 "Blood Profile (CBC)",
-                "ESR (wintrobe method)",
+                "ESR (wintrobe)",
                 "Heart Health - Lipids",
                 "Liver Profile",
                 "Kidney Profile",
